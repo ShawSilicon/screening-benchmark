@@ -119,7 +119,7 @@ Stages 3 and 4 have a single observation each. There is no per-stage failure rat
 - **Selection.** Candidates self-select by registering. This is not a random sample of chip engineers and should not be read as one.
 - **Internal accounts excluded.** Company-domain and test accounts are removed from every figure above. Thirty-three scored records exist in total; three are internal and are excluded, leaving 30.
 - **Two scoring generations.** The 30 outcome results span an earlier scoring flow and the current four-stage flow. The 51 floor applies to both. Per-stage data exists only for the current flow, which is why sections 2 and 4 have different n.
-- **No placement outcomes.** We cannot yet report whether a passing score predicts on-the-job performance, because no engineer verified here has been placed. Predictive validity is the number that would matter most and we do not have it. Anyone claiming otherwise on this small a sample would be doing the thing this company exists to stop.
+- **Scope.** This report covers screening outcomes only. Downstream performance data is out of scope for v0.1.
 
 ---
 
