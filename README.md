@@ -34,7 +34,7 @@ Question bank: **300 items across the 9 specializations engineers can select** (
 
 **Pass floor: 51 of 100.**
 
-The rubric weights and the question bank are not published. The stage structure, the dimensions and the floor are.
+The rubric weights and the question bank are not published. The round structure, the dimensions and the floor are.
 
 ---
 
@@ -77,7 +77,7 @@ Twenty-two sessions have been started on the three-round flow.
 | | Count |
 |---|---|
 | Sessions started | **22** |
-| Submitted both stage 1 and stage 2 | **9** |
+| Submitted both round 1 and round 2 | **9** |
 | Abandoned before submitting anything | **13** |
 | Graded through all three rounds | **1** |
 
@@ -91,7 +91,7 @@ The only stage with enough observations to show anything.
 
 `conceptual_depth`, eight scored submissions: **63, 67, 77, 80, 80, 82, 83, 86**
 
-Median 80. Range 63 to 86. This says the population reaching stage 1 submission is reasonably strong on fundamentals, which is expected: the drop-off in section 3 happens earlier.
+Median 80. Range 63 to 86. This says the population reaching round 1 submission is reasonably strong on fundamentals, which is expected: the drop-off in section 3 happens earlier.
 
 Eight observations. Do not build anything on this.
 
@@ -99,7 +99,7 @@ Eight observations. Do not build anything on this.
 
 ## 5. What we cannot report yet, and how thin it is
 
-| Stage | Dimension | Observations |
+| Round | Dimension | Observations |
 |---|---|---|
 | 1 | `conceptual_depth` | 8 |
 | 2 | `design` | 9 |
@@ -109,7 +109,7 @@ Eight observations. Do not build anything on this.
 
 Round 3, and the diagrams dimension, have a single observation each. There is no per-stage failure rate to report and there will not be one until the sample supports it.
 
-**One further disclosure.** In the stage 2 data, seven of nine `design` scores and seven of nine `debugging` scores are identical values. That pattern is more consistent with a scorer returning a default than with a scorer discriminating between candidates. Until that is investigated and resolved, **no stage 2 result should be treated as a measurement**, and none is reported above beyond the raw count. We are stating this rather than publishing a mean that looks meaningful and is not.
+**One further disclosure.** In the round 2 data, seven of nine `design` scores and seven of nine `debugging` scores are identical values. That pattern is more consistent with a scorer returning a default than with a scorer discriminating between candidates. Until that is investigated and resolved, **no round 2 result should be treated as a measurement**, and none is reported above beyond the raw count. We are stating this rather than publishing a mean that looks meaningful and is not.
 
 ---
 
@@ -142,4 +142,4 @@ john@shawsilicon.ai | [shawsilicon.ai](https://shawsilicon.ai) | [github.com/tai
 ---
 
 ### Changelog
-- **v0.1, 2 August 2026** -- first publication. Outcome results n = 30, session funnel n = 22, round 1 n = 8. Stage 2 flagged as unreliable pending investigation. Stages 3 and 4 not reportable.
+- **v0.1, 2 August 2026** -- first publication. Outcome results n = 30, session funnel n = 22, round 1 n = 8. Round 2 flagged as unreliable pending investigation. Stages 3 and 4 not reportable.
