@@ -143,4 +143,4 @@ john@shawsilicon.ai | [shawsilicon.ai](https://shawsilicon.ai) | [github.com/tai
 
 ### Changelog
 - **v0.1.2, 2 August 2026** -- corrected the screen description to three rounds and the bank to 300 items across the 9 selectable specializations. Earlier revisions said four stages and 380 items across 13; the extra 80 items belong to four specializations engineers cannot currently select.
-- **v0.1, 2 August 2026** -- first publication. Outcome results n = 30, session funnel n = 22, round 1 n = 8. Round 2 flagged as unreliable pending investigation. Stages 3 and 4 not reportable.
+- **v0.1, 2 August 2026** -- first publication. Outcome results n = 30, session funnel n = 22, round 1 n = 8. Round 2 flagged as unreliable pending investigation. The diagrams dimension and round 3 not reportable.
