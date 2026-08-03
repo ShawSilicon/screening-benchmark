@@ -14,7 +14,7 @@ This report is the beginning of one. It is deliberately small and deliberately h
 
 **It is not** a benchmark. A benchmark needs enough observations to be stable, and this does not have them yet. Everything below carries its n. Nothing is extrapolated, and no percentage appears without the count behind it.
 
-**It does not report per-stage failure rates.** We can measure them and we intend to publish them, but the sample is currently one to nine observations per round depending on the round, which is not enough to report. Section 5 states exactly how thin, because a report that hides its own gaps is the thing this company exists to argue against.
+**It does not report per-round failure rates.** We can measure them and we intend to publish them, but the sample is currently one to nine observations per round depending on the round, which is not enough to report. Section 5 states exactly how thin, because a report that hides its own gaps is the thing this company exists to argue against.
 
 ---
 
@@ -87,7 +87,7 @@ Twenty-two sessions have been started on the three-round flow.
 
 ## 4. Round 1 results, n = 8
 
-The only stage with enough observations to show anything.
+The only round with enough observations to show anything.
 
 `conceptual_depth`, eight scored submissions: **63, 67, 77, 80, 80, 82, 83, 86**
 
@@ -142,4 +142,5 @@ john@shawsilicon.ai | [shawsilicon.ai](https://shawsilicon.ai) | [github.com/tai
 ---
 
 ### Changelog
+- **v0.1.2, 2 August 2026** -- corrected the screen description to three rounds and the bank to 300 items across the 9 selectable specializations. Earlier revisions said four stages and 380 items across 13; the extra 80 items belong to four specializations engineers cannot currently select.
 - **v0.1, 2 August 2026** -- first publication. Outcome results n = 30, session funnel n = 22, round 1 n = 8. Round 2 flagged as unreliable pending investigation. Stages 3 and 4 not reportable.
