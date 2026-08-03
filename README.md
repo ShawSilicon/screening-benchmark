@@ -100,7 +100,7 @@ Eight observations. Do not build anything on this.
 
 ## 5. What we cannot report yet, and how thin it is
 
-| Round | Dimension | Observations |
+| Stage | Dimension | Observations |
 |---|---|---|
 | 1 | `conceptual_depth` | 8 |
 | 2 | `design` | 9 |
@@ -118,7 +118,7 @@ Stage 3, and the diagrams dimension, have a single observation each. There is no
 
 - **Selection.** Candidates self-select by registering. This is not a random sample of chip engineers and should not be read as one.
 - **Internal accounts excluded.** Company-domain and test accounts are removed from every figure above. Thirty-three scored records exist in total; three are internal and are excluded, leaving 30.
-- **Two scoring generations.** The 30 outcome results span an earlier scoring flow and the current four-stage flow. The 51 floor applies to both. Per-round data exists only for the current flow, which is why sections 2 and 4 have different n.
+- **Two scoring generations.** The 30 outcome results span an earlier scoring flow and the current four-stage flow. The 51 floor applies to both. Per-stage data exists only for the current flow, which is why sections 2 and 4 have different n.
 - **Scope.** This report covers screening outcomes only. Downstream performance data is out of scope for v0.1.
 
 ---
