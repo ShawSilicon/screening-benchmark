@@ -14,7 +14,7 @@ This report is the beginning of one. It is deliberately small and deliberately h
 
 **It is not** a benchmark. A benchmark needs enough observations to be stable, and this does not have them yet. Everything below carries its n. Nothing is extrapolated, and no percentage appears without the count behind it.
 
-**It does not report per-stage failure rates.** We can measure them and we intend to publish them, but the sample is currently one to nine observations per stage depending on the stage, which is not enough to report. Section 5 states exactly how thin, because a report that hides its own gaps is the thing this company exists to argue against.
+**It does not report per-stage failure rates.** We can measure them and we intend to publish them, but the sample is currently one to nine observations per round depending on the round, which is not enough to report. Section 5 states exactly how thin, because a report that hides its own gaps is the thing this company exists to argue against.
 
 ---
 
@@ -107,7 +107,7 @@ Eight observations. Do not build anything on this.
 | 2 | `diagrams` | **1** |
 | 3 | `adversarial_debug` | **1** |
 
-Round 3, and the diagrams dimension, have a single observation each. There is no per-stage failure rate to report and there will not be one until the sample supports it.
+Round 3, and the diagrams dimension, have a single observation each. There is no per-round failure rate to report and there will not be one until the sample supports it.
 
 **One further disclosure.** In the round 2 data, seven of nine `design` scores and seven of nine `debugging` scores are identical values. That pattern is more consistent with a scorer returning a default than with a scorer discriminating between candidates. Until that is investigated and resolved, **no round 2 result should be treated as a measurement**, and none is reported above beyond the raw count. We are stating this rather than publishing a mean that looks meaningful and is not.
 
@@ -117,7 +117,7 @@ Round 3, and the diagrams dimension, have a single observation each. There is no
 
 - **Selection.** Candidates self-select by registering. This is not a random sample of chip engineers and should not be read as one.
 - **Internal accounts excluded.** Company-domain and test accounts are removed from every figure above. Thirty-three scored records exist in total; three are internal and are excluded, leaving 30.
-- **Two scoring generations.** The 30 outcome results span an earlier scoring flow and the current three-round flow. The 51 floor applies to both. Per-stage data exists only for the current flow, which is why sections 2 and 4 have different n.
+- **Two scoring generations.** The 30 outcome results span an earlier scoring flow and the current three-round flow. The 51 floor applies to both. Per-round data exists only for the current flow, which is why sections 2 and 4 have different n.
 - **Scope.** This report covers screening outcomes only. Downstream performance data is out of scope for v0.1.
 
 ---
