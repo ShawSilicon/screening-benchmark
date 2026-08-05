@@ -1,3 +1,31 @@
+> ## CORRECTION IN PROGRESS, 5 August 2026
+>
+> **The outcome results in section 2 are withdrawn.** Two defects, found during
+> our own reconciliation, not reported to us.
+>
+> **1. The population is wrong.** Section 2 states that three internal accounts
+> were excluded from thirty-three scored records. Two were excluded. The third
+> excluded record was an external candidate scoring exactly 51, and a third
+> internal record scoring 3 was retained and counted as a non-clear.
+>
+> **2. The 51 floor is applied retroactively.** These thirty records span two
+> scoring generations. The verified floor drifted 64 to 60 to 55 to 50 before
+> being set at 51 on 24 June 2026, and a separate pool gate of 55 stood until
+> 25 July 2026. Applying today's floor to results issued under a higher bar is
+> stated in section 7 but is not reflected in the headline figure.
+>
+> Excluding all three internal records under one rule gives 30 records, 18
+> cleared and 12 not cleared, or 40.0 percent. **That figure is not published
+> here yet**, because the stage 2 anomaly in section 6 is unresolved and feeds
+> the composite these classifications come from.
+>
+> ~~13 of 30 did not clear, 43.3 percent~~ (this document, 2 August)
+> ~~14 of 29 did not clear, 48 percent~~ (LinkedIn, 21, 23 and 29 July)
+>
+> Both are withdrawn. Neither is replaced until stage 2 is resolved and every
+> completion is classified under one documented version. This notice stays at
+> the top until then.
+
 # Chip design screening: methodology and first results
 
 **ShawSilicon. Data cut 2 August 2026. Report version 0.1.**
